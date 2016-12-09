@@ -1,0 +1,72 @@
+
+h1{
+	text-align:center;
+}
+.hea{
+	width:32%;
+	display:block;
+	float:left;
+	padding-left:10px;
+}
+#title_main{
+	min-width:1000px;
+	margin:0 auto;
+	width:80%;
+	height:20px;
+	padding:10px;
+	border:1px gray solid;
+	box-shadow:0 0 1px  gray;
+}
+#information{
+	margin:0 auto;
+	width:80%;
+	min-width:1000px;
+	margin-top:20px;
+	height:20px;
+	padding:10px;
+	border:1px solid gray;
+	box-shadow:0 0 1px  gray;
+}
+.one_title{
+	margin:0 auto;
+	width:80%;
+	min-width:1000px;
+	margin-top:20px;
+	height:20px;
+	line-height:20px;
+	padding:10px;
+	border:1px solid gray;
+	box-shadow:0 0 1px gray;
+	background:rgb(245,245,245);
+}
+.qu_one{
+	margin:0 auto;
+	width:80%;
+	min-width:1000px;
+	line-height:30px;
+	height:150px;
+	padding:10px;
+	padding-top:0;
+	border:1px solid gray;
+	border-top:1px solid white;
+	box-shadow:0 0 1px gray;
+}
+#qu_two{
+	height:330px;
+}
+#qu_four{
+	height:100px;
+}
+#qu_five{
+	height:150px;
+}
+#qu_five textarea{
+	resize:none;
+	width:50%;
+}
+input[type="button"]{
+	width:200px;
+	height:35px;
+	background-color: blue;
+	margin-left:calc(50% - 100px) ;
+}
